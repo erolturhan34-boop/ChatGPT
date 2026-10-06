@@ -1,0 +1,10 @@
+ELF magic: 7f454c46 True
+Mach-O magic: cffaedfe True
+ZIP magic: 504b0304 True
+ZIP members: ['harmless.txt'] testzip= None
+PY compile: True
+DMG trailer magic: b'koly' True
+DMG version/header: (4, 512)
+DMG XML offset/length: 4096 329 in_bounds= True
+LNK header size: 0x4c True
+LNK CLSID: 0114020000000000c000000000000046 True

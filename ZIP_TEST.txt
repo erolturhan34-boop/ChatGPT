@@ -1,0 +1,3 @@
+Archive:  /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.zip
+    testing: harmless.txt             OK
+No errors detected in compressed data of /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.zip.

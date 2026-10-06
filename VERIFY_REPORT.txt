@@ -1,0 +1,33 @@
+DDEI / Picus priority benign file-type samples
+Generated: 2026-10-07
+
+===== sample.elf =====
+/mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.elf: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=0f3448cc6112163d721cca4ecb1ab9d61c0ab837, for GNU/Linux 3.2.0, stripped
+7fe42ace11228e4d901bf61a47cf6d2a35c8159a77ce95af96237eb1d532d8f8  /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.elf
+14384 /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.elf
+
+===== sample.macho =====
+/mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.macho: Mach-O 64-bit x86_64 object, flags:<|SUBSECTIONS_VIA_SYMBOLS>
+30d44f3133f1d0cdd46ce560ba8447b29f51601b56ae47dd3b9927a132e7c50f  /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.macho
+608 /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.macho
+
+===== sample.zip =====
+/mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.zip: Zip archive data, made by v3.0 UNIX, extract using at least v1.0, last modified Oct 06 2026 23:44:04, uncompressed size 47, method=store
+450e4845390fdd081ec055a430f38d0ed316e264321d79f515d1f9b0fb578638  /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.zip
+221 /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.zip
+
+===== sample.py =====
+/mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.py: ASCII text
+5d9db65f7a4023896432b9d836634dd7bf54bea210e54ea191f8ec8b3b008f66  /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.py
+77 /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.py
+
+===== sample.dmg =====
+/mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.dmg: data
+7f93be5bf11273a87acf059609b94f296f5975e26296713bc7c24e2e1da27383  /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.dmg
+4937 /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.dmg
+
+===== sample.lnk =====
+/mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.lnk: MS Windows shortcut, Has Relative path, Unicoded, length=0, window=normal
+f82419526cd26c7fae0a8a4a521ee99594bd3b9d747d2f1ad96039dca6965733  /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.lnk
+146 /mnt/data/DDEI_PICUS_PRIORITY_SAMPLES/sample.lnk
+
